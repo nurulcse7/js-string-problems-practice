@@ -40,6 +40,7 @@
 // console.log(partial2); // print: bon 
 // // N.B slice and substring both are same.
 
+// You can give , . : ; '' "" etc last of sentence using with join
 const lines = [
     'Tumi bondhu kala Pakhi ami jeno ki',
     'Bosonto kale tomai bolte pari ni',
